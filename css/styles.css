@@ -70,6 +70,10 @@ header {
     width: auto;
 }
 
+.logo{
+    width: 80%;
+}
+
 nav {
     margin-left: 20px;
 }
@@ -97,10 +101,10 @@ nav {
 }
 
 .menu-nav:hover {
-    background-color: #af599e;
+    background-color: orange;
 }
 
-  
+
 
     
 /*cuerpo*/
@@ -143,7 +147,7 @@ main {
 
 #cv { /* boton hoja de vida*/
     border-style: hidden;
-    background-color: #af599e;
+    background-color: orange;
     border-radius: 50px;
     margin: 20px 0px 20px 0px;
     padding: 3vh 4vw;
@@ -163,7 +167,7 @@ main {
 
 .p_contacto {
     border-style: hidden;
-    background-color: rgba(175, 89, 158, 0.3);
+    background-color: rgba(211, 138, 2, 0.479);
     border-radius: 15px;
     margin: 2vh 2vw;
     padding: 4vh 6vw;
@@ -190,7 +194,7 @@ main {
 
             /*pie de pagina*/
 footer { 
-    background-color: #af599e;
+    background-color: orange;
     height: 90px;
     width: 100%;
     font-size: 4vw;
